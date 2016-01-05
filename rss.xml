@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[discovering the grid...]]></title>
         <description><![CDATA[discovering the grid...]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/tomtomzim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 17:46:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 05 Jan 2016 17:47:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tomtomzim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Up & down & up again]]></title>
+            <description><![CDATA[<article><h1>Up & down & up again</h1><p>took this one about 10 years ago and still like it</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/237254e162208bf5db58f6808b680179e1ceb17e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/tomtomzim/up-and-down-and-up-again/index.html</link>
+            <guid isPermaLink="false">d3a0d5f9-6518-4180-84e8-51ff429f3eaf</guid>
+            <pubDate>Tue, 05 Jan 2016 17:46:53 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Project 2016 :-)]]></title>
             <description><![CDATA[<article><h1>Project 2016 :-)</h1><p>Project 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2663df6e71a4d1796933f15ca75b5ae97d83d4bd.png"></article>]]></description>
-            <link>undefinedproject-2016-/index.html</link>
+            <link>https://thegrid.ai/tomtomzim/project-2016-/index.html</link>
             <guid isPermaLink="false">ab79d0b0-89d4-4c2b-8015-ca3692d7ab4f</guid>
             <pubDate>Tue, 05 Jan 2016 17:45:55 GMT</pubDate>
         </item>
