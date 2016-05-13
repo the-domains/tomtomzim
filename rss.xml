@@ -4,8 +4,15 @@
         <description><![CDATA[discovering the grid...]]></description>
         <link>https://thegrid.ai/tomtomzim/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jan 2016 21:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 May 2016 15:03:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tomtomzim/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.jaeschke-arbeitsplatten.de/wp-content/uploads/2015/01/Quirrenbach-Grauwacke-Grace3-Kuechenarbeitsplatte-Schulte-Design-4-1500x630.jpg">]]></description>
+            <link>https://thegrid.ai/tomtomzim/8b181d1a-a787-4827-9244-d222cfb1baba/index.html</link>
+            <guid isPermaLink="false">8b181d1a-a787-4827-9244-d222cfb1baba</guid>
+            <pubDate>Fri, 13 May 2016 15:03:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><h1></h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3694392d841ddd6c0a849254bc7aa4949136e88c.jpg"></article>]]></description>
@@ -14,25 +21,25 @@
             <pubDate>Wed, 06 Jan 2016 21:07:59 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[concrete kitchen tops]]></title>
-            <description><![CDATA[<article><h1>concrete kitchen tops</h1><p>Concrete kitchen tops... </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ac5a88a88d4c61dd984501bca654951750dc6cd6.jpg"></article>]]></description>
-            <link>https://thegrid.ai/tomtomzim/fbe09d59-bd91-4c1e-9775-8aa8a7b77bb1/index.html</link>
-            <guid isPermaLink="false">fbe09d59-bd91-4c1e-9775-8aa8a7b77bb1</guid>
-            <pubDate>Wed, 06 Jan 2016 20:49:43 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Up & down & up again]]></title>
-            <description><![CDATA[<article><h1>Up & down & up again</h1><p>took this one about 10 years ago and still like it</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee757aeea431d459c798265a9aafff7e72e2c7c4.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1d8b5b6c-05b6-4333-948f-d8d87a8392f6.jpg">]]></description>
             <link>https://thegrid.ai/tomtomzim/up-and-down-and-up-again/index.html</link>
             <guid isPermaLink="false">d3a0d5f9-6518-4180-84e8-51ff429f3eaf</guid>
             <pubDate>Wed, 06 Jan 2016 21:07:59 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Project 2016 :-)]]></title>
-            <description><![CDATA[<article><h1>Project 2016 :-)</h1><p>Project 2016</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2663df6e71a4d1796933f15ca75b5ae97d83d4bd.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/996cb2cb-70df-4fdc-842e-aa20ea3f1c85.png">]]></description>
             <link>https://thegrid.ai/tomtomzim/project-2016-/index.html</link>
             <guid isPermaLink="false">ab79d0b0-89d4-4c2b-8015-ca3692d7ab4f</guid>
             <pubDate>Wed, 06 Jan 2016 20:54:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[concrete kitchen tops]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5e792b8d-c86f-4df0-b3df-19dca8770aa3.jpg">]]></description>
+            <link>https://thegrid.ai/tomtomzim/fbe09d59-bd91-4c1e-9775-8aa8a7b77bb1/index.html</link>
+            <guid isPermaLink="false">fbe09d59-bd91-4c1e-9775-8aa8a7b77bb1</guid>
+            <pubDate>Wed, 06 Jan 2016 20:49:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
